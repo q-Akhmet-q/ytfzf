@@ -1,3 +1,4 @@
+//change
 PROG=ytfzf
 PREFIX=/usr/local
 BINDIR=${PREFIX}/bin
